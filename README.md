@@ -8,4 +8,4 @@ Singapore has an ambitious goal of becoming a zero-waste nation. The amount of w
 
 The government would like to motivate citizens by sharing the total energy that the combined recycling efforts have saved every year. They have asked you to help them.
 
-You have been provided with
+You have been provided with three datasets. The data come from different teams, so the names of waste types may differ.
